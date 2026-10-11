@@ -28,7 +28,7 @@ $enabled_languages = implode(", ", array_merge(get_installed_locale_translations
 echo <<<PAGE
     <h1>$title</h1>
 
-    <p>This page facilicates debugging UI language selection problems. You maybe
+    <p>This page facilitates debugging UI language selection problems. You maybe
     asked to provide the contents of the list below to developers and/or other
     squirrels to troubleshoot unexpected UI language selection by the code.</p>
 
