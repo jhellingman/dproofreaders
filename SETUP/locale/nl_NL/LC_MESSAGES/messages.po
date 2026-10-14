@@ -84,7 +84,7 @@ msgstr ""
 #: tools/site_admin/sa_common.inc:6 tools/site_admin/show_access_log.php:34
 #: userprefs.php:900
 msgid "Username"
-msgstr "Benutzername"
+msgstr "Gebruikersnaam"
 
 #: accounts/activate.php:164 accounts/addproofer.php:154
 #: faq/pophelp/prefs/prefs_pophelp.inc:98 pinc/theme.inc:321 userprefs.php:312
@@ -1875,7 +1875,7 @@ msgstr ""
 
 #: faq/pophelp/prefs/prefs_pophelp.inc:108
 msgid "Statistics Privacy"
-msgstr "Statistiekprivacy"
+msgstr "Privacy van Statistieken"
 
 #: faq/pophelp/prefs/prefs_pophelp.inc:110
 msgid ""
@@ -2814,7 +2814,7 @@ msgstr ""
 
 #: list_etexts.php:13
 msgid "Completed Gold E-Texts"
-msgstr "Voltooide Gouden Eboeken"
+msgstr "Voltooide Gouden E-boeken"
 
 #: list_etexts.php:15
 msgid ""
@@ -2823,8 +2823,8 @@ msgid ""
 "and post-processing. They have been submitted to Project Gutenberg and are now "
 "available for your enjoyment and download."
 msgstr ""
-"Hieronder vindt je de lijst met 'Gouden' eboeken die op deze site zijn "
-"vervaardigd. 'Gouden' eboeken zijn boeken die alle fasen van proeflezen, opmaak "
+"Hieronder vindt je de lijst met 'Gouden' e-boeken die op deze site zijn "
+"vervaardigd. 'Gouden' e-boeken zijn boeken die alle fasen van proeflezen, opmaak "
 "en nabewerking hebben doorlopen. Ze zijn ingediend bij Project Gutenberg en zijn "
 "nu beschikbaar om te downloaden en van te genieten."
 
@@ -2840,7 +2840,7 @@ msgstr ""
 
 #: list_etexts.php:21
 msgid "In Progress Silver E-Texts"
-msgstr "Zilveren Eboeken in ontwikkeling"
+msgstr "Zilveren E-boeken in ontwikkeling"
 
 #: list_etexts.php:24
 msgid ""
@@ -2851,12 +2851,12 @@ msgid ""
 "of checks for consistency and correctness before the e-book is submitted to "
 "Project Gutenberg for your enjoyment and download."
 msgstr ""
-"Hieronder volgt een lijst van 'Zilveren' eboeken waarvan de verwerking op onze "
-"site bijna is afgerond. 'Zilveren' eboeken zijn boeken die alle ronden van "
+"Hieronder volgt een lijst van 'Zilveren' e-boeken waarvan de verwerking op onze "
+"site bijna is afgerond. 'Zilveren' e-boeken zijn boeken die alle ronden van "
 "proeflezen en opmaak hebben doorlopen en zich nu in de nabewerkingsfase "
 "bevinden. Nabewerking is de laatste fase van samenstelling, waarin een "
 "vrijwilliger een reeks controles uitvoert op consistentie en juistheid, voordat "
-"het eboek wordt ingediend bij Project Gutenberg zodat je ervan kunt genieten en "
+"het e-boek wordt ingediend bij Project Gutenberg zodat je ervan kunt genieten en "
 "het kunt downloaden."
 
 #: list_etexts.php:25
@@ -2872,7 +2872,7 @@ msgstr ""
 
 #: list_etexts.php:30
 msgid "Now Proofreading Bronze E-Texts"
-msgstr "Bronzen Eboeken die nu worden verwerkt"
+msgstr "Bronzen E-boeken die nu worden verwerkt"
 
 #: list_etexts.php:33
 msgid ""
@@ -2883,11 +2883,11 @@ msgid ""
 "assembly (post-processing), after which the e-text is submitted to Project "
 "Gutenberg for your enjoyment and download."
 msgstr ""
-"Hieronder vindt u de lijst met 'Bronzen' eboeken die momenteel op deze site "
-"beschikbaar zijn voor correctie. 'Bronzen' eboeken zijn teksten die door onze "
+"Hieronder vindt u de lijst met 'Bronzen' e-boeken die momenteel op deze site "
+"beschikbaar zijn voor correctie. 'Bronzen' e-boeken zijn teksten die door onze "
 "vrijwilligers worden nagekeken of opgemaakt. Na drie correctierondes en twee "
-"opmaakrondes gaat het eboek naar een ervaren vrijwilliger voor de uiteindelijke "
-"samenstelling (nabewerking); vervolgens wordt het eboek ingediend bij Project "
+"opmaakrondes gaat het e-boek naar een ervaren vrijwilliger voor de uiteindelijke "
+"samenstelling (nabewerking); vervolgens wordt het e-boek ingediend bij Project "
 "Gutenberg, zodat je deze kunt downloaden en ervan kunt genieten."
 
 #: list_etexts.php:34
@@ -3107,7 +3107,7 @@ msgstr "Voortgang van de vertaling"
 #: locale/translators/index.php:262 pinc/ProjectSearchResults.inc:461
 #: tools/project_manager/remote_file_manager.php:816
 msgid "Actions"
-msgstr "Akties"
+msgstr "Acties"
 
 #. TRANSLATORS: This shows the number of strings translated with a percentage
 #: locale/translators/index.php:295 locale/translators/index.php:390
